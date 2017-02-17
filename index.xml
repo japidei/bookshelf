@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Shekhar Gulati Book Reviews </title>
-    <link>https://beta.montequinto.eu/index.xml</link>
+    <link>https://japidei.github.io/bookshelf/index.xml</link>
     <language>en-us</language>
     <author>Shekhar Gulati</author>
     <rights>(C) 2017</rights>
@@ -12,10 +12,10 @@
       
         <item>
           <title>Good to Great Book Review</title>
-          <link>https://beta.montequinto.eu/post/dune/</link>
+          <link>https://japidei.github.io/bookshelf/post/dune/</link>
           <pubDate>Fri, 17 Feb 2017 12:41:54 CET</pubDate>
           <author>Shekhar Gulati</author>
-          <guid>https://beta.montequinto.eu/post/dune/</guid>
+          <guid>https://japidei.github.io/bookshelf/post/dune/</guid>
           <description>&lt;p&gt;I read &lt;strong&gt;Good to Great in January 2016&lt;/strong&gt;. An awesome read sharing detailed analysis on how good companies became great. Although this book is about how companies became great but we could apply a lot of the learnings on ourselves. Concepts like level 5 leader, hedgehog concept, the stockdale paradox are equally applicable to individuals.&lt;/p&gt;
 </description>
         </item>
@@ -24,10 +24,10 @@
       
         <item>
           <title>Good to Great Book Review</title>
-          <link>https://beta.montequinto.eu/post/good-to-great/</link>
+          <link>https://japidei.github.io/bookshelf/post/good-to-great/</link>
           <pubDate>Fri, 17 Feb 2017 12:41:24 CET</pubDate>
           <author>Shekhar Gulati</author>
-          <guid>https://beta.montequinto.eu/post/good-to-great/</guid>
+          <guid>https://japidei.github.io/bookshelf/post/good-to-great/</guid>
           <description>&lt;p&gt;I read &lt;strong&gt;Good to Great in January 2016&lt;/strong&gt;. An awesome read sharing detailed analysis on how good companies became great. Although this book is about how companies became great but we could apply a lot of the learnings on ourselves. Concepts like level 5 leader, hedgehog concept, the stockdale paradox are equally applicable to individuals.&lt;/p&gt;
 </description>
         </item>
