@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Shekhar Gulati Book Reviews </title>
-    <link>https://japidei.github.io/bookshelf/post/index.xml</link>
+    <title>japi Book Reviews </title>
+    <link>https://beta.montequinto.eu/post/index.xml</link>
     <language>en-us</language>
     <author>Shekhar Gulati</author>
     <rights>(C) 2017</rights>
@@ -12,10 +12,10 @@
       
         <item>
           <title>Dune Review</title>
-          <link>https://japidei.github.io/bookshelf/post/dune/</link>
+          <link>https://beta.montequinto.eu/post/dune/</link>
           <pubDate>Fri, 17 Feb 2017 12:41:54 CET</pubDate>
           <author>Shekhar Gulati</author>
-          <guid>https://japidei.github.io/bookshelf/post/dune/</guid>
+          <guid>https://beta.montequinto.eu/post/dune/</guid>
           <description>&lt;p&gt;Set in the far future amidst a sprawling feudal interstellar empire where planetary dynasties are controlled by noble houses that owe an allegiance to the imperial House Corrino, Dune tells the story of young Paul Atreides (the heir apparent to Duke Leto Atreides and heir of House Atreides) as he and his family accept control of the desert planet Arrakis, the only source of the &amp;lsquo;spice&amp;rsquo; melange, the most important and valuable substance in the cosmos. The story explores the complex, multi-layered interactions of politics, religion, ecology, technology, and human emotion as the forces of the empire confront each other for control of Arrakis.&lt;/p&gt;
 
 &lt;p&gt;Published in 1965, it won the Hugo Award in 1966 and the inaugural Nebula Award for Best Novel. Dune is frequently cited as the world&amp;rsquo;s best-selling sf novel.&lt;/p&gt;
@@ -26,10 +26,10 @@
       
         <item>
           <title>Good to Great Book Review</title>
-          <link>https://japidei.github.io/bookshelf/post/good-to-great/</link>
+          <link>https://beta.montequinto.eu/post/good-to-great/</link>
           <pubDate>Fri, 17 Feb 2017 12:41:24 CET</pubDate>
           <author>Shekhar Gulati</author>
-          <guid>https://japidei.github.io/bookshelf/post/good-to-great/</guid>
+          <guid>https://beta.montequinto.eu/post/good-to-great/</guid>
           <description>&lt;p&gt;I read &lt;strong&gt;Good to Great in January 2016&lt;/strong&gt;. An awesome read sharing detailed analysis on how good companies became great. Although this book is about how companies became great but we could apply a lot of the learnings on ourselves. Concepts like level 5 leader, hedgehog concept, the stockdale paradox are equally applicable to individuals.&lt;/p&gt;
 </description>
         </item>
